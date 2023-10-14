@@ -12,9 +12,15 @@
      <div class="links">
        <ul>
          <li><a href="repositories/">View your repositories</a></li>
+         <li>
        </ul>
     </div>
+
+    <!-- Div for searchbar -->
+    <div class="searchbar">
+      <form action="search.php">
+       <input type="search" nane="search">
+       <input type="submit" value="Search for repository">
    </nav>
  </body>
- </head>  
 </html>
