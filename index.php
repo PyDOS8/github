@@ -12,7 +12,6 @@
      <div class="links">
        <ul>
          <li><a href="repositories/">View your repositories</a></li>
-         <li>
        </ul>
     </div>
 
