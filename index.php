@@ -20,7 +20,7 @@
       <form action="search.php">
        <input type="search" nane="search">
        <input type="submit" value="Search for repository">
-      </form>
+     </form>
     </div>
    </nav>
  </body>
